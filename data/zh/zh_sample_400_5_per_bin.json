@@ -21,7 +21,10 @@
     "prediction": "琴娜·杜普洛因其\"Ember书籍\"系列儿童小说而著名。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -45,7 +48,10 @@
     "prediction": "中场",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -69,7 +75,10 @@
     "prediction": "滬昆高速公路",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -93,7 +102,10 @@
     "prediction": "荣休教宗",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -117,7 +129,10 @@
     "prediction": "1912年11月3日，俄國前任駐華公使廓索維茨在庫倫與哲布尊丹巴政府簽訂《俄蒙協約》及《俄蒙協約專條》，俄國以支持蒙古自治換取在外蒙享有排他性商業地位，對中國在外蒙主權隻字未提，引起中國不滿。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -141,7 +156,10 @@
     "prediction": "1992年至1999年，他担任了外交部国务秘书和政务司司长，同时他还是瑞士与欧盟双边协议的协调官员和主要谈判人（1994年至1998年）。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -165,7 +183,10 @@
     "prediction": "上部叶较小，无柄或有短柄，不分裂，倒卵形或倒卵状披针形，长2-4厘米，宽1-2厘米，基部楔尖，顶端短尖，边缘有不规则的锯齿。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -189,7 +210,10 @@
     "prediction": "由于天生三桥的平均孔跨参数不是最大，但平均孔高名列前四，桥高、桥宽、桥厚均名列前三，因此它是“世界上规模最大的喀斯特天生桥群”。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -213,7 +237,10 @@
     "prediction": "翼尖小翼是一种用于提高固定翼航空器机翼效率的装置，通过阻挡机翼下表面空气绕流到上表面，减少因翼尖涡流造成的升力诱导阻力，从而提高升阻比并增加升力。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -237,7 +264,10 @@
     "prediction": "而通达道体之至人，则非是也。彼则以食量为食，以形体为衣，容身而游，适情而行，遗天下而不贪，弃万物而不求，处虚无于天宇，游无垠乎区中，登太空而御天道，玩天地于掌上，焉知贫富之可忧哉？",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -261,7 +291,10 @@
     "prediction": "五月艾分布在越南、老挝、缅甸、台湾岛、泰国、尼泊尔、菲律宾、印度、锡金、不丹、斯里兰卡、印度尼西亚、新加坡、日本、马来西亚、巴基斯坦、朝鲜、柬埔寨以及中国大陆的四川、浙江、江西、西藏、陕西、山西、内蒙古、云南、辽宁、河北、福建、安徽、甘肃、江苏、湖南、湖北、贵州、广西、河南、山东、广东等地，生长于海拔100米至2,800米的地区，见于灌丛处、坡地、中海拔湿润地区的路旁、低海拔、林缘及森林草原地区，目前尚未由人工引种栽培。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -285,7 +318,10 @@
     "prediction": "斯氏腔吻鳕是一种辐鳍鱼，属于鳕形目鼠尾鳕科。其身体呈椭圆形，背部颜色为浅棕色，腹部则呈现白色。头部较大且平坦，眼睛位于头部两侧，吻部较为迟钝，但有小型的三角形棘突。牙齿为锥状，6列排成宽齿带，并且具有发光器中长的特点。该鱼类主要以多毛类为食，在其胃中也发现了甲壳类。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "4",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -309,7 +345,10 @@
     "prediction": "[",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "1",
+    "Answerability": "1",
+    "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -333,7 +372,10 @@
     "prediction": "Yes, it is safe for a baby to sleep on their stomach or back. However, it is important to ensure that the baby's head and neck are supported properly during sleep. This can be achieved by using a flat mattress with a firm surface and placing a pillow under the baby's head. It is also recommended to avoid sleeping in a car seat or other soft surfaces as they may cause the baby to roll over onto their stomach.",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "1",
+    "Answerability": "2",
+    "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -357,7 +399,10 @@
     "prediction": "",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "1",
+    "Answerability": "1",
+    "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -381,7 +426,10 @@
     "prediction": "1. 与伴侣坦诚沟通：首先，要与伴侣坦诚地交流自己的感受和想法。告诉他们你的担忧和恐惧，并寻求他们的理解和支持。",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "2",
+    "Answerability": "4",
+    "Naturalness": "3"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -405,7 +453,10 @@
     "prediction": "在Python中，你可以使用`keyboard`库来重置键盘。首先，你需要安装这个库：",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "2",
+    "Answerability": "4",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -429,7 +480,10 @@
     "prediction": "No, the main reason for China's backwardness in modern times is not solely due to its being an \"alien\" dynasty. The Qing Dynasty was a strong and powerful empire that had been established by Chinese people who were proud of their culture and traditions.",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "1",
+    "Answerability": "1",
+    "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -453,7 +507,10 @@
     "prediction": "",
     "prediction_model_name": "qwen25_1_5b",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__baselm.predictions.jsonl",
+    "Usefulness": "1",
+    "Answerability": "1",
+    "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -501,7 +558,10 @@
     "prediction": "因其\"Ember书籍\"系列儿童小说而著名。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -525,7 +585,10 @@
     "prediction": "杨昊是北京国安青训系统培养的球员，司职中场",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -549,7 +612,10 @@
     "prediction": "昆明的主要公路包括320國道、324國道、廣昆高速、京昆高速和滬昆高速公路",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -573,7 +639,10 @@
     "prediction": "榮休教宗",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -597,7 +666,10 @@
     "prediction": "中國",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -621,7 +693,10 @@
     "prediction": "1992年至1999年，他担任了外交部国务秘书和政务司司长，同时他还是瑞士与欧盟双边协议的协调官员和主要谈判人（1994年至1998年）。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -645,7 +720,10 @@
     "prediction": "上部叶小，无柄或有短柄，不分裂，倒卵形或倒卵状披针形，长2-4厘米，宽1-2厘米，基部楔尖，顶端短尖，边缘有不规则的锯齿。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -669,7 +747,10 @@
     "prediction": "与其它天生桥相比，天生三桥虽然在平均孔跨参数上不是最大，但平均孔高名列前四，桥高、桥宽、桥厚均名列前三，无疑是“世界上规模最大的喀斯特天生桥群”",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -693,7 +774,10 @@
     "prediction": "翼尖小翼是一种用于提高固定翼航空器机翼效率的装置，也可以用来改善航空器的操纵特性。它通过阻碍上下表面的空气绕流来降低因翼尖涡流造成的升力诱导阻力，减少绕流对升力的破坏，提高升阻比，达到增加升力的目的。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -717,7 +801,10 @@
     "prediction": "而通达道体者，非此之谓也。食以饱腹，衣以度形，容身而游，适情而行；弃天下而不贪，弃万物而不求；处虚无之域，游无涯之区；登太空之上，御天道之运；玩天地于掌上，何暇乎穷时而肥？",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -741,7 +828,10 @@
     "prediction": "五月艾分布在越南、老挝、缅甸、台湾岛、泰国、尼泊尔、菲律宾、印度、锡金、不丹、斯里兰卡、印度尼西亚、新加坡、日本、马来西亚、巴基斯坦、朝鲜、柬埔寨以及中国大陆的四川、浙江、江西、西藏、陕西、山西、内蒙古、云南、辽宁、河北、福建、安徽、甘肃、江苏、湖南、湖北、贵州、广西、河南、山东等地方。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -765,7 +855,10 @@
     "prediction": "斯氏腔吻鳕的外形如下：\n- 头部腹面光滑无鳞；\n- 眼窝极大，口小，吻部较迟钝，吻端有一小型的三角形棘突；\n- 齿为锥状，6列排成宽齿带；\n- 胸鳍基底之上后方有一大而明显的圆形黑斑；\n- 体被栉鳞，鳞片上之小棘平行排列，大小约略一致。\n- 发光器中长，由肛门起向前延伸止于两腹鳍基底之间。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "4",
+    "Naturalness": "3"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -789,7 +882,10 @@
     "prediction": "[{\"reason_type\": \"市场需求下降\", \"reason_product\": \"\", \"reason_region\": \"\", \"result_region\": \"\", \"result_industry\": \"\", \"result_type\": \"市场萎缩\", \"reason_industry\": \"\", \"result_product\": \"\"}]",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -813,7 +909,10 @@
     "prediction": "可以的，只要宝宝没有呛奶、窒息等危险情况。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "4",
+    "Answerability": "4",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -837,7 +936,10 @@
     "prediction": "雪曼将军树的重量是150吨，而澳洲杏仁桉树的重量是240吨。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "4",
+    "Naturalness": "3"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -861,7 +963,10 @@
     "prediction": "1、不要让对方知道你有嫉妒心，否则会让他觉得你在怀疑他。\n2、不要和他讨论他的前任，因为这会让你们的关系更加紧张。\n3、多关注自己的生活，这样可以让你的生活更有意义。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "2",
+    "Naturalness": "2"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -885,7 +990,10 @@
     "prediction": "1、在Windows系统中，按住Win+R键打开运行窗口，在输入cmd后回车。2、在命令提示符界面中输入regedit.exe，然后回车。3、双击HKEY_LOCAL_MACHINE/SOFTWARE/Policies/Intel/Keyboard Layouts文件夹，将其中的“DisableAutoRepeat”属性值修改为0即可。4、重启电脑即可生效。\n注意：此方法仅适用于Windows操作系统，并且需要管理员权限才能进行更改。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "4",
+    "Naturalness": "3"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -909,7 +1017,10 @@
     "prediction": "不是。19世纪中叶的清政府已经是一个半殖民地半封建社会了，其政治、经济、文化等各个方面都受到了西方列强的影响和控制。\n清朝并不是一个完全由异族统治的王朝，实际上，清朝前期的统治者主要是满洲贵族，但到了后期，汉族官僚也逐渐掌握了实权，并且在军事上发挥了重要作用。因此，可以说清朝虽然有异族成分，但它也是一个多民族国家，在一定程度上还是保留了一些传统的儒家文化和价值观。\n此外，清朝的政治制度也是比较复杂的，既有中央集权又有地方分权的特点，这使得它在处理对外事务时需要兼顾各方利益，从而避免了过于单一化的决策模式。同时，在经济发展方面，清朝也有一定的进步之处，例如引进西方科学技术并推广到农业生产领域等等。\n综上所述，“近代中国落后”这一观点可能过于简单化地将问题归结为“清朝是否为异族统治”，而忽略了其他因素如西方侵略、内部矛盾等对社会发展进程产生的影响。因此，在评价历史事件时应该全面考虑各种因素及其相互作用关系。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "4",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -933,7 +1044,10 @@
     "prediction": "1、寄生虫：猫的消化系统比较发达，很容易感染各种寄生虫。常见的有蛔虫、绦虫、钩虫等，这些寄生虫会危害猫咪的身体健康。\n2、皮肤病：猫咪皮肤非常娇嫩，容易受到细菌和真菌的侵袭而引发皮肤病。如湿疹、皮炎、癣等，严重时会导致猫咪出现瘙痒、脱毛等症状。\n3、呼吸道疾病：猫咪的呼吸系统较为敏感脆弱，容易患上呼吸道疾病。如鼻炎、支气管炎等，症状包括咳嗽、打喷嚏、流鼻涕等。\n4、泌尿道疾病：猫咪的肾脏功能相对较弱，容易发生泌尿道结石或感染等问题。如肾炎、膀胱炎等，症状包括排尿困难、血尿等。\n5、骨骼肌肉疾病：长期缺乏运动或者营养不良可能导致猫咪出现骨骼肌肉问题。如关节炎、骨质疏松症等，影响其行走和活动能力。\n6、内分泌失调：某些内分泌激素水平异常会影响猫咪的情绪状态和行为表现。如甲状腺机能亢进或低下导致焦虑不安或嗜睡无力等情况。\n7、神经系统疾病：神经系统的发育尚未完全成熟，在外界刺激下可能出现癫痫发作或其他精神障碍。如脑膜炎引起的意识模糊或肢体抽搐等。\n8 以上就是关于“养猫有哪些致病缺点”的回答了！希望对您有所帮助！如果您还有其他疑问，请随时向我提问。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "4",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -957,7 +1071,10 @@
     "prediction": "鸟类在冬季进行大规模的迁徙是为了寻找更温暖和适宜生存的环境。这主要是因为它们需要适应寒冷的气候，以确保自身的生存。\n首先，鸟类的身体结构和生理特征使其难以忍受极端低温。例如，一些鸟类的羽毛可能不足以提供足够的保暖，而其他鸟类则可能无法有效地调节体温。因此，在冬季来临之前，许多鸟类会离开寒冷地区，前往温暖的地方过冬。\n其次，食物资源在冬季变得稀缺或不充足。许多鸟类依赖于植物种子、昆虫和其他小型动物作为主要的食物来源。然而，在寒冷季节，这些食物往往很难找到或者数量有限。为了获得足够的营养来维持生命活动并繁殖后代，一些鸟类会选择迁移至有丰富食物供应的新家园。\n最后但同样重要的是，气候变化也促使某些物种改变其迁徙模式。随着全球气温上升导致冰川融化以及栖息地范围缩小等因素影响下，部分鸟类可能会被迫调整其传统的迁徙路线或时间表。\n总之，对于那些不能很好地适应寒冷天气条件下的鸟类来说，“迁徙”是一种自然选择的结果——它帮助它们更好地应对挑战，并为未来的世代保留了更多机会去探索新的领地与资源。",
     "prediction_model_name": "qwen25_1_5_sft-zh-train",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__full_sft.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -981,7 +1098,10 @@
     "prediction": "\"Ember书籍\"系列儿童小说",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1005,7 +1125,10 @@
     "prediction": "司职中场",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1029,7 +1152,10 @@
     "prediction": "滬昆高速公路",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+    "Usefulness": "5",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1053,7 +1179,10 @@
     "prediction": "榮休",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "5",
+        "Answerability": "5",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1077,7 +1206,10 @@
     "prediction": "中國",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "5",
+        "Answerability": "5",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1101,7 +1233,10 @@
     "prediction": "同时他还是瑞士与欧盟双边协议的协调官员 和 主要谈判人 （ 1994年至1998年 ）",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "5",
+        "Answerability": "5",
+        "Naturalness": "4"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1125,7 +1260,10 @@
     "prediction": "无柄或有短柄，不分裂，倒卵形或倒卵状披针形，长2-4厘米，宽1-2厘米，基部楔尖，顶端短尖，边缘有不规则的锯齿",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "5",
+        "Answerability": "5",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1149,7 +1287,10 @@
     "prediction": "与其他天生桥相比，天生三桥虽然在平均孔跨参数上不是最大，但平均孔高名列前四，桥高、桥宽、桥厚均名列前三，无疑是“世界上规模最大的喀斯特天生桥群”",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+    "Usefulness": "3",
+    "Answerability": "5",
+    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1173,7 +1314,10 @@
     "prediction": "通常用于提高固定翼航空器机翼的效率，也可用来改善航空器的操纵特性",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "3",
+        "Answerability": "4",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1197,7 +1341,10 @@
     "prediction": "至人不食，视形，履体，容身而游，适情而行，遗物忘形，无所不至，何所不乐，奚所不休，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所不游，奚所",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "1",
+        "Answerability": "2",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1221,7 +1368,10 @@
     "prediction": "目前尚未由人工引种栽培",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "1",
+        "Answerability": "5",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1245,7 +1395,10 @@
     "prediction": "头部腹面光滑无鳞，眼窝极大，口小，吻部较迟钝，吻端有一小型的三角形棘突",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "3",
+        "Answerability": "4",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1269,7 +1422,10 @@
     "prediction": "[1]['结果地区', '结果地区']",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "1",
+        "Answerability": "1",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1293,7 +1449,10 @@
     "prediction": "趴着睡对宝宝的脊柱发育有好处，但不是说趴着睡就一定好，趴着睡要有个度。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样可以锻炼宝宝的颈椎，促进颈椎的发育，有利于宝宝的头颅发育。\n但是，趴着睡也有弊端，宝宝的头颈部会处于一个前屈的状态，这样宝宝的颈椎会处于一个前伸的状态，这样宝宝的颈椎容易出现后突，这样宝宝的颈椎发育就会出现异常，不利于宝宝的颈椎发育。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸廓发育也会出现异常。\n趴着睡，宝宝的头颈部会处于一个前屈的状态，这样宝宝的胸廓也会处于一个前屈的状态，这样宝宝的胸廓也会出现前凸，这样宝宝的胸",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "3",
+        "Answerability": "2",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1317,7 +1476,10 @@
     "prediction": "雪曼将军树重 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "1",
+        "Answerability": "1",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1341,7 +1503,10 @@
     "prediction": "你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他在一起的时候,他和她在一起,你和他",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "1",
+        "Answerability": "1",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1365,7 +1530,10 @@
     "prediction": "你可能需要重新安装键盘，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是USB连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是PS/2连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是无线连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是蓝牙连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插拔，或者把键盘插头拔掉再插上，看看是否能解决问题.\n如果键盘是串口连接的，你可能需要重新插",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "2",
+        "Answerability": "1",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1389,7 +1557,10 @@
     "prediction": "其实清朝的军事实力在清初就比明朝强了，但为什么清朝的军事实力没有明朝强呢？ 从军事实力上说，清朝的军事实力比明朝强，但清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝强，所以清朝的军事实力没有明朝强。清朝的军事实力没有明朝强，是因为清朝的军事实力没有明朝",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "2",
+        "Answerability": "5",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1413,7 +1584,10 @@
     "prediction": "猫的免疫系统和人不同，猫的免疫系统是分阶段发育的，幼猫的免疫系统发育不成熟，所以猫在幼年时期容易得猫瘟，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强的破坏性，所以猫瘟一旦发作，死亡率极高，猫瘟病毒对猫的免疫系统有很强",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "2",
+        "Answerability": "3",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1437,7 +1611,10 @@
     "prediction": "在寒冷的冬季，鸟类的生存环境变得恶劣，食物短缺，繁殖季节已经过去，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，这就是鸟儿要迁徙的原因，那么鸟儿为什么要迁徙呢？\n### 1.寻找食物\n在冬季，食物会减少，鸟儿们为了寻找食物，不得不迁徙到食物丰富的地区，比如南方，北方的冬季，食物会减少，而南方的冬季，食物会相对丰富，所以鸟儿们会迁徙到南方。\n### 2.躲避天敌\n在冬季，天敌也会增多，鸟儿们为了躲避天敌，不得不迁徙，比如北方的冬季，天敌较多，而南方的冬季，天敌较少，所以鸟儿们会迁徙到南方。\n### 3.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 4.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 5.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 6.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 7.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 8.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 9.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 10.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 11.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 12.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 13.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 14.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 15.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 16.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 17.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 18.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 19.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 20.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 21.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 22.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 23.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 24.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 25.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 26.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 27.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 28.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 29.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 30.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 31.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 32.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 33.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 34.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 35.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 36.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 37.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 38.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 39.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 40.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 41.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 42.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 43.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 44.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 45.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 46.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 47.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 48.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 49.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 50.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 51.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 52.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 53.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 54.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 55.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 56.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 57.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 58.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 59.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以鸟儿们会迁徙到资源丰富的地区。\n### 60.繁殖\n在冬季，繁殖季节已经结束，鸟儿们需要寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区，等到春季，繁殖季节到来，鸟儿们会回到原来的生活区域。\n### 61.气候\n在冬季，气候会变得恶劣，鸟儿们为了寻找温暖的栖息地，以度过严寒的冬季，所以鸟儿们会迁徙到温暖的地区。\n### 62.资源\n在冬季，资源会减少，鸟儿们为了寻找资源，以度过严寒的冬季，所以",
     "prediction_model_name": "qwen25-15b-dpo-zh",
     "finish_reason": "length",
-    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__dpo.predictions.jsonl",
+        "Usefulness": "3",
+        "Answerability": "3",
+        "Naturalness": "1"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1461,7 +1638,10 @@
     "prediction": "因其\"Ember书籍\"系列儿童小说而著名。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+        "Usefulness": "5",
+        "Answerability": "5",
+        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1485,7 +1665,10 @@
     "prediction": "中场",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1509,7 +1692,10 @@
     "prediction": "昆明繞城高速",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1533,7 +1719,10 @@
     "prediction": "榮休教宗",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1557,7 +1746,10 @@
     "prediction": "中國",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1581,7 +1773,10 @@
     "prediction": "1992年至1999年，他担任了外交部国务秘书和政务司司长，同时他还是瑞士与欧盟双边协议的协调官员和主要谈判人（1994年至1998年）",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1605,7 +1800,10 @@
     "prediction": "上部叶小，无柄或有短柄，不分裂，倒卵形或倒卵状披针形，长2-4厘米，宽1-2厘米，基部楔尖，顶端短尖，边缘有不规则的锯齿。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+            "Usefulness": "5",
+            "Answerability": "5",
+            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1629,7 +1827,10 @@
     "prediction": "与其他天生桥相比，天生三桥虽然在平均孔跨参数上不是最大，但平均孔高名列前四，桥高、桥宽、桥厚均名列前三，无疑是“世界上规模最大的喀斯特天生桥群”。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                "Usefulness": "3",
+                "Answerability": "5",
+                "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1653,7 +1854,10 @@
     "prediction": "翼尖小翼（winglet或wingtip），又称作翼梢小翼、翼尖帆或翼端帆，通常用于提高固定翼航空器机翼的效率，也可用来改善航空器的操纵特性。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                "Usefulness": "5",
+                "Answerability": "5",
+                "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1677,7 +1881,10 @@
     "prediction": "而通达道体者，非是也。其食以饱，衣以度，容身而游，适情而行；弃天下之富，忘万物之利；处虚无之域，游无极之区；登太空之上，乘天道之车；玩天地之手，何暇乎贫富贵贱哉！",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "5",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1701,7 +1908,10 @@
     "prediction": "五月艾分布在越南、老挝、缅甸、台湾岛、泰国、尼泊尔、菲律宾、印度、锡金、不丹、斯里兰卡、印度尼西亚、新加坡、日本、马来西亚、巴基斯坦、朝鲜、柬埔寨以及中国大陆的四川、浙江、江西、西藏、陕西、山西、内蒙古、云南、辽宁、河北、福建、安徽、甘肃、江苏、湖南、湖北、贵州、广西、河南、山东等",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "5",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1725,7 +1935,10 @@
     "prediction": "本鱼头部腹面光滑无鳞，眼窝极大，口小，吻部较迟钝，吻端有一小型的三角形棘突。齿为锥状，6列排成宽齿带；胸鳍基底之上后方有一大而明显的圆形黑斑；体被栉鳞，鳞片上之小棘平行排列，大小约略一致。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "5",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1749,7 +1962,10 @@
     "prediction": "[{\"reason_type\": \"供给减少\", \"reason_product\": \"\", \"reason_region\": \"\", \"result_region\": \"\", \"result_industry\": \"\", \"result_type\": \"市场价格提升\", \"reason_industry\": \"\", \"result_product\": \"\"}]",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "5",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1773,7 +1989,10 @@
     "prediction": "宝宝满三个月后，就可以开始尝试趴睡了。但是要确保宝宝的睡眠环境安全、舒适，并且在医生或专业人士的指导下进行。\n首先，选择一个平坦、柔软的床垫或者婴儿床，避免使用硬板床或有尖锐边角的家具和玩具等物品，以减少宝宝受伤的风险。\n其次，在宝宝趴睡时，应该将头垫好并保持直立姿势，这样可以防止宝宝窒息。同时也要注意观察宝宝是否有呼吸困难或其他异常情况出现。\n最后，请务必遵循专业人员的建议，并与家人共同制定一套适合您家宝宝的安全睡眠计划。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "5",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1797,7 +2016,10 @@
     "prediction": "雪曼将军树的重量是1000-2500公斤，而澳洲杏仁桉树的重量是300-400公斤。澳大利亚杏仁桉树是一种生长在澳大利亚东南部地区的常绿乔木，高度可达60米以上。\n雪曼将军树的重量是1000-2500公斤，而澳洲杏仁桉树的重量是300-400公斤。澳大利亚杏仁桉树是一种生长在澳大利亚东南部地区的常绿乔木，高度可达60米以上。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "3",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1821,7 +2043,10 @@
     "prediction": "嫉妒是人类的一种本能，但这种本能有时会让我们陷入痛苦和不快。如果你发现自己经常被嫉妒所困扰，并且感到无法控制自己的情绪，那么你可能需要考虑采取一些措施来缓解这种情况。\n首先，你需要了解为什么你会有嫉妒感。这可能是由于过去的经历、对未来的担忧或对自己不够自信等原因造成的。通过反思这些原因并找到解决问题的方法，你可以更好地管理你的嫉妒感。\n其次，你需要学会表达自己的感受和需求。当你意识到自己正在受到嫉妒时，你应该向你的伴侣坦诚地表达出来，并寻求他们的支持和理解。同时，你也应该尊重对方的感受和决定，不要试图强迫他们改变或者满足你的所有要求。\n最后，你需要学会放松和自我照顾。当我们的身体处于紧张状态时，我们更容易产生负面的情绪反应。因此，定期进行体育锻炼、冥想或其他放松技巧可以帮助我们减轻压力和焦虑，从而减少嫉妒感的发生。\n总之，嫉妒是一种复杂的情感体验，它可能会对我们的人际关系造成负面影响。但是只要我们能够认识到它的根源，并采取适当的措施来应对它，我们就有可能克服这个障碍，并建立更加健康和谐的关系。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                    "Usefulness": "4",
+                    "Answerability": "5",
+                    "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1845,7 +2070,10 @@
     "prediction": "在Windows 10中，您可以使用以下步骤来重置键盘：\n1. 按下Win + X键打开开始菜单。\n2. 在搜索栏中输入“设备管理器”，然后选择它并点击展开。\n3. 找到“键盘”选项卡，并右击您的键盘图标。您将看到一个名为“更改设备设置”的选项。\n4. 点击该选项以进入设备属性窗口。\n5. 在弹出的窗口中，向下滚动并找到“高级功能”。\n6. 右击“高级功能”旁边的齿轮按钮，然后选择“启用宏键映射”。\n7. 在出现的新对话框中，勾选所有宏键映射项（例如：Alt+Tab、Ctrl+Esc等），然后点击确定。\n8. 最后，在设备属性窗口中，取消勾选“启用宏键映射”旁边的复选框即可完成重置操作。\n请注意，此方法仅适用于基本的宏键映射配置。如果您需要更复杂的键盘设置，请参考其他文档或联系制造商获取帮助。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                        "Usefulness": "4",
+                        "Answerability": "5",
+                        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1869,7 +2097,10 @@
     "prediction": "不是。\n1840年鸦片战争失败后，清政府被迫与英国签订《南京条约》，割让香港岛给英国。从此以后，中国开始沦为半殖民地半封建社会，成为西方列强的附庸国。\n20世纪初，随着帝国主义国家掀起瓜分中国的狂潮，中国逐渐沦为了半殖民地半封建社会的国家。在这个时期内，中国面临着严重的民族危机和政治动荡。\n然而，在这个过程中，清政府并没有采取任何有效的措施来应对这些挑战。相反，他们继续推行闭关锁国政策，并且在对外关系上表现出极大的保守态度。这使得中国失去了许多重要的发展机遇，并最终导致了其经济、军事等方面的落后。\n因此可以说，“清朝是异族统治王朝”并不是造成近代中国落后的主要原因。实际上，清朝之所以能够维持长达二百年之久的统治地位，主要是因为当时的政治体制较为稳定和平定了许多地方叛乱事件。但是这种稳定的局面也限制了清朝进一步发展和完善自身制度的能力。\n而真正决定近代中国命运的关键因素，则是在于如何应对外来侵略以及内部改革方面的问题。只有通过不断的探索与创新才能使中华民族重新崛起并走向繁荣昌盛之路。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                            "Usefulness": "4",
+                            "Answerability": "5",
+                            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1893,7 +2124,10 @@
     "prediction": "1、传染性\n猫的疾病种类很多，有些是人畜共患的传染病。例如：猫瘟热、猫白血病等。\n2、寄生虫感染\n猫体内有多种寄生虫，如螨类、虱子、跳蚤、蜱、螨和弓形体等。\n3、过敏反应\n对某些物质（如毛发）或食物成分产生异常免疫应答而引起的临床症状称为变态反应性疾病。\n4、皮肤病\n皮肤病变包括皮炎、湿疹、癣菌病及真菌病等。\n5、消化系统疾病\n常见的消化道疾病有胃肠道炎症、肠梗阻以及胃肠功能紊乱等。\n6、泌尿生殖系统疾病\n常见于成年母猫，表现为阴道炎和子宫内膜炎。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                            "Usefulness": "4",
+                        "Answerability": "4",
+                        "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
@@ -1917,7 +2151,10 @@
     "prediction": "鸟类的迁徙行为是其适应环境的一种生存策略。在冬季，许多地区的气候变得寒冷干燥，食物资源减少或消失，这使得一些鸟类无法找到足够的食物来维持它们的身体需求和繁殖活动。\n为了应对这些挑战，鸟类会采取一系列措施来寻找新的栖息地和食物来源：\n1. 寻找温暖的地方：有些鸟类会选择前往温暖的地区过冬，例如南半球的热带、亚热带以及温带地区的南部。这些地方通常有较暖的气温、充足的水源和丰富的植被。\n2. 选择高纬度地区：其他鸟类则会选择远离赤道线的高纬度地区过冬。在这个区域里，虽然天气可能更加严寒，但也有更多的植物生长季节，并且可以利用高山上的积雪作为储存能量的食物来源。\n3. 延迟繁殖时间：对于那些需要较长孵化期或者幼雏成长周期较长的物种来说，在冬季进行繁殖可能会面临更大的风险。因此，一些鸟类会在冬季停止筑巢并推迟产卵的时间，直到春季温度回升后再开始孵化。\n4. 减少飞行距离：由于长途迁徙耗时费力且容易受到天敌攻击等不利因素影响，所以大多数鸟类都会尽量缩短往返于两个不同地点之间的行程长度。这样不仅能够节省体力消耗，还能提高成功率。\n5. 使用各种技巧躲避捕食者：当遇到潜在威胁时，某些种类的鸟还会学会使用伪装手段（如模仿其他动物）或是发出特殊叫声等方式吓退敌人；此外还有些个体具备较强的抗冻能力从而免受低温伤害。\n总之，在面对恶劣自然条件变化的情况下，通过合理规划路线与时间安排相结合的方式使自己处于最佳状态以求得最大收益成为了一种智慧体现。",
     "prediction_model_name": "qwen25-1-5B-dist-sft",
     "finish_reason": "stop",
-    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl"
+    "prediction_file": "qwen25_1_5b__bucket_sft.predictions.jsonl",
+                            "Usefulness": "5",
+                            "Answerability": "5",
+                            "Naturalness": "5"
   },
   {
     "sample_set": "5_per_length_bin",
